@@ -1,6 +1,4 @@
-Based on the provided code, here is a comprehensive `README.md` file designed for your plugin.
 
-***
 
 # Elementor Twilio SMS Notifier
 
